@@ -8,7 +8,7 @@ import java.util.Arrays;
 /**
  * Learn how to create Flux instances.
  *
- * @author Sebastien Deleuze Coator Yeferson Valencia 
+ * @author Sebastien Deleuze  @author Yeferson Valencia
  * @see <a href="https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html">Flux Javadoc</a>
  */
 public class Part01Flux {
@@ -47,5 +47,8 @@ public class Part01Flux {
 	Flux<Long> counter() {
 		return Flux.interval(Duration.ofMillis(100)).take(10);
 	}
+
+//========================================================================================
+
 
 }

@@ -35,7 +35,7 @@ import reactor.core.publisher.Mono;
  *
  * For RxJava 3, you should not use Reactor Adapter but only RxJava 3 and Reactor Core.
  *
- * @author Sebastien Deleuze
+ * @author Sebastien Deleuze @author Yeferson Valencia
  */
 public class Part09Adapt {
 

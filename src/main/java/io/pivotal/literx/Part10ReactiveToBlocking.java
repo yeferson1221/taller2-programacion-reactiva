@@ -7,7 +7,7 @@ import reactor.core.publisher.Mono;
 /**
  * Learn how to turn Reactive API to blocking one.
  *
- * @author Sebastien Deleuze
+ * @author Sebastien Deleuze @author Yeferson Valencia
  */
 public class Part10ReactiveToBlocking {
 
