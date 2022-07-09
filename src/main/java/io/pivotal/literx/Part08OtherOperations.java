@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Learn how to use various other operators.
  *
- * @author Sebastien Deleuze @author Yeferson Valencia
+ * @author Sebastien Deleuze @author Yeferson Valencia G
  */
 public class Part08OtherOperations {
 
